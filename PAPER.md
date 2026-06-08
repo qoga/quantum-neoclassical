@@ -49,7 +49,7 @@ All experiments were conducted on a commodity server:
 | OS | Ubuntu Linux 24.04 |
 | Python | 3.12 |
 | Key Libraries | numpy 1.26.4, psutil |
-| AI System | Claude (Anthropic), tool-augmented |
+| AI System | DeepSeek, tool-augmented |
 
 The AI system was granted root access with the following tools: bash execution, file read/write/edit, browser automation (Chromium with persistent sessions), git, package management, and web search. All operations were conducted in a single continuous session.
 
