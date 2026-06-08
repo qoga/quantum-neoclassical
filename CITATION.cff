@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+title: "Quantum-Neoclassical Computing: Demonstrations at the Boundary of Classical Physics"
+authors:
+  - family-names: "AI Collaborative Research"
+    given-names: "Qoga"
+    orcid: null
+abstract: "A computational exploration of quantum and classical boundary phenomena including gate-model quantum simulation, Deutsch closed timelike curves, thermodynamic entropy reversal, causal paradox resolution via quantum superposition, and vacuum fluctuation modeling — all demonstrated on commodity x86 hardware."
+keywords:
+  - quantum-computing
+  - closed-timelike-curves
+  - entropy-reversal
+  - causal-paradox
+  - quantum-simulation
+  - neoclassical-computation
+license: MIT
+date-released: 2025-06-08
+repository-code: "https://github.com/qoga/quantum-neoclassical"
